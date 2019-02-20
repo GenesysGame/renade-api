@@ -1,0 +1,23 @@
+{
+  "name": "renade-api",
+  "version": "0.0.1",
+  "description": "API for the Reande game server (Rage MP) and Reande web-site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenesysGame/renade-api.git"
+  },
+  "author": "GenesysGame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenesysGame/renade-api/issues"
+  },
+  "homepage": "https://github.com/GenesysGame/renade-api#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
